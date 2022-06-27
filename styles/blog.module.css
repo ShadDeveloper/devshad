@@ -26,7 +26,7 @@
     justify-content: space-between;
     padding: 1.5rem 9rem;
     background: #1f1f38;
-    background-image: url(../public/bg.png);
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNsPsTh1iox7vxgwF3kbpk9vYEikbIqYhoH5zZw4W3LK9c-DSNvpmnvJK39jPz8_ua-lwCk1C1s_E4bBzGQrb7jeSApMUvPHA_C93bLnp6qeMNQ1tqUmsy9CBb1-HSn2v7CD_BshQOWPw4T5_nbB6FPCXOSh6oqLzT3QJwOVWdGxWL1jFa6ueL1xMv/w213-h213/bg.png');
   }
   
   .navbar .logo {
@@ -90,7 +90,7 @@
     height: 57vh;
     width: 100%;
     background: #1f1f38;
-    background-image: url(../public/bg.png);
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNsPsTh1iox7vxgwF3kbpk9vYEikbIqYhoH5zZw4W3LK9c-DSNvpmnvJK39jPz8_ua-lwCk1C1s_E4bBzGQrb7jeSApMUvPHA_C93bLnp6qeMNQ1tqUmsy9CBb1-HSn2v7CD_BshQOWPw4T5_nbB6FPCXOSh6oqLzT3QJwOVWdGxWL1jFa6ueL1xMv/w213-h213/bg.png');
     display: flex;
     text-align: center;
     flex-direction: column;
