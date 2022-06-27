@@ -85,7 +85,7 @@ function PostDetail() {
   return (
     <>
       <Head>
-        <title>Blog | Dev Shad</title>
+        <title>{post.title} | Dev Shad</title>
       </Head>
 
       <div className={style.postMain}>
