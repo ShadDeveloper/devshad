@@ -26,7 +26,7 @@
     justify-content: space-between;
     padding: 1.5rem 9rem;
     background: #1f1f38;
-    background-image: url(../public/assets/bg-texture.png);
+    background-image: url(../public/bg.png);
   }
   
   .navbar .logo {
@@ -90,7 +90,7 @@
     height: 57vh;
     width: 100%;
     background: #1f1f38;
-    background-image: url(../public/assets/bg-texture.png);
+    background-image: url(../public/bg.png);
     display: flex;
     text-align: center;
     flex-direction: column;
