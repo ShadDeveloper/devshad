@@ -45,8 +45,8 @@ const About = () => {
             numquam nobis libero totan.
           </p>
 
-          <a href="" className="btn btn-primary">
-            Let's Talk
+          <a href="#contact" className="btn btn-primary">
+            Let&lsquo;s Talk
           </a>
         </div>
       </div>

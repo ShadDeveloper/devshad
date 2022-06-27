@@ -127,9 +127,9 @@ function Main() {
         <div className={style.footer}>
             <span>&#169; Copyright All Right Reserved</span>
             <div className={style.socialIcon}>
-                <a href="https://facebook.com/MdShadKhanFF" target="_blank" className={style.icon}><FacebookOutlinedIcon fontSize="small" /></a>
-                <a href="https://instagram.com/dev_shad" target="_blank" className={style.icon}><InstagramIcon fontSize="small" /></a>
-                <a href="https://twitter.com/dev_shad" className={style.icon}><TwitterIcon fontSize="small" /></a>
+                <a href="https://facebook.com/MdShadKhanFF" target="_blank" className={style.icon} rel="noreferrer"><FacebookOutlinedIcon fontSize="small" /></a>
+                <a href="https://instagram.com/dev_shad" target="_blank" className={style.icon} rel="noreferrer"><InstagramIcon fontSize="small" /></a>
+                <a href="https://twitter.com/dev_shad" className={style.icon} rel="noreferrer"><TwitterIcon fontSize="small" /></a>
             </div>
         </div>
       </div>

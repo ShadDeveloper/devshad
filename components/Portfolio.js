@@ -62,13 +62,14 @@ const Portfolio = () => {
             </div>
             <h3>{callout.title}</h3>
             <div className={style.portfolio__itemCta}>
-              <a href={callout.github} target="_blank" className="btn">
+              <a href={callout.github} target="_blank" rel="noreferrer" className="btn">
                 Github
               </a>
               <a
                 href={callout.demo}
                 className="btn btn-primary"
                 target="_blank"
+                rel="noreferrer"
               >
                 Live Demo
               </a>

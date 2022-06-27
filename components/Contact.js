@@ -41,7 +41,7 @@ const Contact = () => {
             <MailOutlineIcon fontSize="small" className={style.contact__optionIcon} />
             <h4>Email</h4>
             <h5>devshaad@gmail.com</h5>
-            <a href="mailto:devshaad@gmail.com" target="_blank">
+            <a href="mailto:devshaad@gmail.com" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -51,7 +51,7 @@ const Contact = () => {
             <InstagramIcon fontSize="small" className={style.contact__optionIcon} />
             <h4>Instagram</h4>
             <h5>@dev_shad</h5>
-            <a href="https://instagram.com/dev_shad" target="_blank">
+            <a href="https://instagram.com/dev_shad" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -61,7 +61,7 @@ const Contact = () => {
             <TwitterIcon fontSize="small" className={style.contact__optionIcon} />
             <h4>Twitter</h4>
             <h5>@dev_shad</h5>
-            <a href="https://twitter.com/dev_shad" target="_blank">
+            <a href="https://twitter.com/dev_shad" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>

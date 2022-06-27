@@ -2,12 +2,11 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import Head from "next/head";
-// import '../../node_modules/blog-css/styles.css';
 import style from "../../styles/blog.module.css";
 import { IconButton } from "@mui/material";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 
-function postDetail() {
+function PostDetail() {
   const [post, setPost] = useState([]);
   const [loading, setLoading] = useState(false);
 
@@ -108,4 +107,4 @@ function postDetail() {
   );
 }
 
-export default postDetail;
+export default PostDetail;
